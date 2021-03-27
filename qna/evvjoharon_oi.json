@@ -1,0 +1,25 @@
+{
+  "id": "evvjoharon_oi",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "menu"
+    ],
+    "enabled": true,
+    "answers": {
+      "pt": [
+        "sim nós temos menu"
+      ]
+    },
+    "questions": {
+      "pt": [
+        "menu",
+        "cardárpio",
+        "opcao",
+        "comida"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

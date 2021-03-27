@@ -1,0 +1,26 @@
+{
+  "id": "odsklaxq0r_oi",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "pt": [
+        "ola tudo bem",
+        "ola\ncomo vai voce"
+      ]
+    },
+    "questions": {
+      "pt": [
+        "oi",
+        "hi",
+        "ola",
+        "como vai"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
